@@ -1,12 +1,17 @@
 _repo: The-Livestock-Producer-and-Armour_51244
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   publisher_contributor:
     agent_name: Armour and Company
     alias: Armour and Company, Chicago
     gutenberg_agent_id: '46328'
     url: http://www.gutenberg.org/2009/agents/46328
+covers:
+- cover_type: archival
+  image_path: 51244-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51244#The-Livestock-Producer-and-Armour
 gutenberg_issued: '2016-02-18'
 gutenberg_type: Text
 identifiers:
